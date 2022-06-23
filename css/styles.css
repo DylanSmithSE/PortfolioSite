@@ -1,0 +1,21 @@
+/* #bd5d38 */
+body {
+}
+.navbar {
+	background-color: #bd5d38;
+	width: 17rem;
+	height: 100vh;
+	float: left;
+	text-align: center;
+}
+.photo {
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	background-color: blue;
+	margin: 1rem auto;
+}
+.nav-list {
+	list-style-type: none;
+	padding-left: 0px;
+}
