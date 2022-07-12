@@ -11782,7 +11782,34 @@ p.lead {
 .social-icons .social-icon:hover {
 	background-color: #bd5d38;
 }
-
+.project-icons .project-icon {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	height: 2.5rem;
+	width: 2.5rem;
+	background-color: #495057;
+	color: #fff;
+	border-radius: 100%;
+	font-size: 1rem;
+	margin-right: 1rem;
+}
+.project-icons .project-icon:last-child {
+	margin-right: 0;
+}
+.project-icons .project-icon:hover {
+	background-color: #bd5d38;
+}
+.images-container {
+}
+.image-container {
+	color: white;
+	background: #000;
+	
+	height: 200px;
+	width: 200px;
+	padding: 5px;
+}
 .dev-icons {
 	font-size: 3rem;
 }
