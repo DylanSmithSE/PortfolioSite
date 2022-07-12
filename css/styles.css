@@ -11800,20 +11800,19 @@ p.lead {
 .project-icons .project-icon:hover {
 	background-color: #bd5d38;
 }
-.images-container {
+.logo-container {
+	align-items: center;
+	height: 72px;
 }
-.image-container {
-	color: white;
-	background: #000;
-	
-	height: 200px;
-	width: 200px;
-	padding: 5px;
+.logo {
+	object-fit: cover;
+	height: 58px;
+	padding-bottom: 12px;
 }
+
 .dev-icons {
 	font-size: 3rem;
 }
-
 section.resume-section {
 	display: flex;
 	align-items: center;
