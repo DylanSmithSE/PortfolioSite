@@ -11809,6 +11809,9 @@ p.lead {
 	height: 58px;
 	padding-bottom: 12px;
 }
+.logo-label {
+	font-size: 0.75rem;
+}
 
 .dev-icons {
 	font-size: 3rem;
